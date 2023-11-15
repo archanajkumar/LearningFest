@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins',sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+body{
+    background: whilte;
+    color: #080808;
+    margin-left: 30px;
+    
+}
+.mt-20{
+    margin-top:10px;
+}
+
+.progress {
+    height: 31px;
+    margin-bottom: 10px;
+}
+
+
+.progress .skill {
+      font: normal 12px "Open Sans Web";
+    line-height: 32px;
+    padding: 10;
+    margin: 0 0 0 10px;
+    text-transform: uppercase;
+}
+.progress .skill .val {
+  float: right;
+  font-style: normal;
+  margin: 0 20px 0 0;
+}  
+ 
+.progress-bar { 
+  text-align: left;
+  transition-duration: 3s;
+}
+
+.bsp_big-image {
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0);
+    border-radius: 5px;
+    margin-top: 0px;
+}
+.navbar-scroll {
+    background-color: #fff; /* Change the background color as needed */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a shadow effect */
+    transition: background-color 0.3s; /* Add a smooth transition effect */
+  }
